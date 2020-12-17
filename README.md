@@ -1,2 +1,2 @@
-# Explainable_AL_Infrastructure_damage
+# Explainable_AI_Infrastructure_damage
 Machine learning has recently received considerable attention these days in the earthquake engineering community as it can map the complex relationship between the expected damage and the input parameters. Often there is a need to understand how and why the machine learning model behaves or predicts the outputs. This code compare explainable AI approaches in the context of earthquake engineering
